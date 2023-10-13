@@ -1,5 +1,5 @@
 # projectile-shot
-
+[![Build, Test](https://github.com/Remarrk1/DrawingCircle/actions/workflows/app.yml/badge.svg)](https://github.com/Remarrk1/projectile-shot/actions/workflows/app.yml)
 [![License: MIT ](https://img.shields.io/badge/License-MIT-violet.svg)](https://opensource.org/licenses/MIT)
 ![Python Version](https://img.shields.io/badge/python-3.9-blue)
 # Лабораторная работа по дисциплине "Компьютерная графика" №2. 
