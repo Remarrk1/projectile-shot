@@ -21,14 +21,14 @@ a к горизонту. Программа должна циклически з
 ## Используемые библиотеки:
 * tkinter - для создания графического пользовательского интерфейса 
 * unittest - для написания и выполнения тестов
-<p align="right">(<a href="https://github.com/Remarrk1/projectile-shot/edit/main/README.md">back to top</a>)</p>
+
 
 ## Описание возможностей:
 - Ввод скорости полета снаряда;
 - Ввод угла полета снаряда;
 - Демонстрация полета снаряда с заданной скоростью и под заданным углом;
 - Выход из программы при нажатии клавиши Esc.
-<p align="right">(<a href="https://github.com/Remarrk1/projectile-shot/edit/main/README.md">back to top</a>)</p>
+
 
 ## Установка:
 1. Клонируйте репозиторий
@@ -39,7 +39,7 @@ git clone https://github.com/Remarrk1/projectile-shot
 ```sh
 pip install tk
 ```
-<p align="right">(<a href="https://github.com/Remarrk1/projectile-shot/edit/main/README.md">back to top</a>)</p>
+
 
 ## Использование: 
 1. Открыть терминал в папке проекта и выполнить следующую команду:
@@ -48,11 +48,11 @@ python main.py
 ```
 2. В открывшемся окне в поле "Скорость" задать скорость полета снаряда, 
 в поле "Угол" задать угол полета снаряда в градусах 
-<p align="right">(<a href="https://github.com/Remarrk1/projectile-shot/edit/main/README.md">back to top</a>)</p>
+
 
 ## Лицензия
 Распространяется по лицензии MIT. Смотрите `LICENSE.txt` для получения дополнительной информации.
-<p align="right">(<a href="https://github.com/Remarrk1/projectile-shot/edit/main/README.md">back to top</a>)</p>
+
 
 
 
